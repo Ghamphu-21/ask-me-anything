@@ -1,0 +1,4 @@
+streamlit>=1.62.0
+google-genai
+python-dotenv
+httpx
